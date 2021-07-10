@@ -37,8 +37,7 @@ Installation is a process of installing the dependencies required ;
 
 
 ## Links
-[Repository]()
-[Heroku Deployment]
+[Repository](https://github.com/princessmoss/originalmvc)
 
 
 
