@@ -35,6 +35,9 @@ Installation is a process of installing the dependencies required ;
 
 ### Demo     
 
+![Demo](https://user-images.githubusercontent.com/77419537/125150002-768ff300-e10a-11eb-900e-5105205386b8.gif)
+
+
 
 ## Links
 [Repository](https://github.com/princessmoss/originalmvc)
