@@ -29,7 +29,6 @@ Installation is a process of installing the dependencies required ;
 `npm install dotenv`  
 `npm install express-handlebars`     
 `npm install express-session` 
-`npm install connect-session-sequelize`
 
 
 
